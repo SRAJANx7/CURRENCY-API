@@ -99,3 +99,9 @@ body {
     margin-top: 10px;
     border-radius: 7px;
 }
+@media(max-width: 500px){
+    .container{
+        width: 340px;
+        height: 500px;
+    }
+}
